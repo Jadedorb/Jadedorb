@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jadedorb
+- 👀 I’m interested in Music, Coding, Learning
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on small projects i can have a small tiny role in for experience
